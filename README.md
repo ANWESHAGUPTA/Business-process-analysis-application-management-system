@@ -1,4 +1,4 @@
-# University Application Management Portal Design for Assistantships
+# Application Management Portal Design for Assistantships
 
 ## About the Project
 
